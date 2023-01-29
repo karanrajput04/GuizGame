@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="account">Don\'t have account yet? <font color="#5b39c6"><b><u><i>Sign Up</i></u></b></font></string>
+    <string name="forgot_password"><u>I forgot my password</u></string>
+    <string name="googleAPIKey">62291462930-t3d9fhlkdb9a8i9dgjnaa8e373tsir2s.apps.googleusercontent.com</string>
+</resources>
